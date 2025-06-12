@@ -48,6 +48,7 @@ popupWidth=647
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
+icon=/usr/share/icons/eoslinux.png
 
 [Containments][2][Applets][4]
 immutability=1
